@@ -10,6 +10,6 @@ public class LoginPage extends BaseLibrary {
 	}
 	public void endofTask()
 	{
-		System.out.println("automation is done");
+		System.out.println("automaton is done ");
 	}
 }
